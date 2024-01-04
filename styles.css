@@ -1,0 +1,24 @@
+.bar {
+  width: 25px;
+  height: 100px;
+  background-color: blue;
+  display: inline-block;
+  margin: 20px;
+}
+.bar:hover {
+  background-color: red;
+}
+.svg {
+  background-color: pink;
+  padding-left: 0.5rem;
+}
+
+.bar_hover {
+  cursor: pointer;
+}
+.bar_hover:hover {
+  fill: salmon;
+}
+.label {
+  cursor: pointer;
+}
